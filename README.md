@@ -1,7 +1,5 @@
 # WebMakeBFU
-# webwater
-# BFUWebMake
-# BFUWebMake
+
 ## 基本信息
 你来看代码啦？  
 这是合成北林，看看你最多能合成几个北林校徽吧！  
